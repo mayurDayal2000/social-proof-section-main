@@ -28,7 +28,7 @@ Users should be able to:
 ## Links
 
 - Solution URL: [https://github.com/mayurDayal2000/social-proof-section-main](https://github.com/mayurDayal2000/social-proof-section-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mayurdayal2000.github.io/social-proof-section-main/](https://mayurdayal2000.github.io/social-proof-section-main/)
 
 
 ## Built with
